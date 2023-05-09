@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - MUI@5 with emotion and styled-components
 - Basic navigation setup
 - Standard routes setup
-- A work in progress!
+- pre-configured navigation drawer
 
 ***
 ## Getting Started
